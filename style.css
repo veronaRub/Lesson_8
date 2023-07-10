@@ -18,7 +18,7 @@ h3 {
 
 div {
     display:block;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     font-weight: 600;
     text-decoration-line: underline;
     font-size: large;
@@ -56,10 +56,14 @@ table, th, td {
     border: 1px solid;
 }
 
-.thHead {
+.thhead {
     background-color: rgb(97, 153, 255);
 }
 
-.tdBody {
+.tdbody {
     background-color: rgb(155, 190, 255);
+}
+
+tr {
+    height: 40px;
 }
