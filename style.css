@@ -56,6 +56,10 @@ table, th, td {
     border: 1px solid;
 }
 
+table {
+    margin: 20px 0px;
+}
+
 .thhead {
     background-color: rgb(97, 153, 255);
 }
